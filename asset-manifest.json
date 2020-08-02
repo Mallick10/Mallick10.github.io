@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mallick10.github.io/static/css/main.c5958d89.chunk.css",
+    "main.js": "/Mallick10.github.io/static/js/main.97a1b98b.chunk.js",
+    "main.js.map": "/Mallick10.github.io/static/js/main.97a1b98b.chunk.js.map",
+    "runtime-main.js": "/Mallick10.github.io/static/js/runtime-main.62745f0c.js",
+    "runtime-main.js.map": "/Mallick10.github.io/static/js/runtime-main.62745f0c.js.map",
+    "static/js/2.11a538de.chunk.js": "/Mallick10.github.io/static/js/2.11a538de.chunk.js",
+    "static/js/2.11a538de.chunk.js.map": "/Mallick10.github.io/static/js/2.11a538de.chunk.js.map",
+    "index.html": "/Mallick10.github.io/index.html",
+    "precache-manifest.1c4ac96fd495325765a6b8a9828c53b3.js": "/Mallick10.github.io/precache-manifest.1c4ac96fd495325765a6b8a9828c53b3.js",
+    "service-worker.js": "/Mallick10.github.io/service-worker.js",
+    "static/css/main.c5958d89.chunk.css.map": "/Mallick10.github.io/static/css/main.c5958d89.chunk.css.map",
+    "static/js/2.11a538de.chunk.js.LICENSE.txt": "/Mallick10.github.io/static/js/2.11a538de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Mallick10.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62745f0c.js",
+    "static/js/2.11a538de.chunk.js",
+    "static/css/main.c5958d89.chunk.css",
+    "static/js/main.97a1b98b.chunk.js"
+  ]
+}
